@@ -1,0 +1,16 @@
+{
+  "name": "firststep",
+  "version": "1.0.0",
+  "main": "like_button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "terser": "^5.15.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
